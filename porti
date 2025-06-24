@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+    <h1>Ana Clara - Perfil Pessoal</h1>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p>
+        Olá, meu nome é Ana Clara, tenho 17 anos e moro em Botucatu-SP. Estou cursando o 3º ano do ensino médio na Escola PEI Lucio Antunes de Souza DOM.
+      </p>
+    </section>
+
+    <section class="topics">
+      <h2>Meus Interesses</h2>
+
+      <div class="topic">
+        <h3>🧬 Biomedicina</h3>
+        <p>
+          Pretendo fazer o curso de Ciências Biomédicas na Unesp de Botucatu e futuramente me tornar Perita Criminal. A biomedicina me fascina pela possibilidade de unir ciência e investigação, contribuindo para a justiça através da análise científica. Vejo na perícia criminal uma forma de aplicar conhecimentos biomédicos para resolver casos e ajudar a sociedade.
+        </p>
+        <p>
+          Tenho um interesse especial em desenhos químicos - gosto de estudar e desenhar estruturas moleculares, fórmulas químicas e representações de compostos. Essa paixão por desenhos químicos me ajuda a compreender melhor as reações bioquímicas e os processos moleculares que acontecem no organismo, conhecimentos essenciais para a área biomédica e para a análise forense.
+        </p>
+      </div>
+
+      <div class="topic">
+        <h3>🔬 Laboratório</h3>
+        <p>
+          Gosto muito de laboratório! O ambiente científico me atrai pela precisão, metodologia e descobertas que podem ser feitas. A experiência de trabalhar com análises, experimentos e equipamentos laboratoriais me empolga. É onde posso colocar em prática os conhecimentos teóricos e desenvolver habilidades técnicas essenciais para minha futura carreira.
+        </p>
+      </div>
+
+      <div class="topic">
+        <h3>📚 Livros de Fantasia</h3>
+        <p>
+          Amo ler livros de mistério e fantasia! Esses gêneros me transportam para mundos imaginários cheios de aventuras, magia e enigmas. A fantasia estimula minha criatividade e imaginação, enquanto os mistérios aguçam meu lado investigativo - uma característica que também será útil na minha carreira como perita criminal.
+        </p>
+
+        <div class="book-list">
+          <div class="book-item">
+            <h4>🐉 Game of Thrones</h4>
+            <p>A saga épica de George R.R. Martin me fascina com sua complexidade política, personagens multifacetados e mundo ricamente detalhado. A mistura de fantasia medieval com intrigas políticas cria uma narrativa envolvente que prende do início ao fim.</p>
+          </div>
+
+          <div class="book-item">
+            <h4>🐱 Otolina e a Gata Amarela</h4>
+            <p>Uma história encantadora que combina mistério e fantasia de forma única. A protagonista Otolina e suas aventuras com a Gata Amarela criam um mundo mágico cheio de descobertas e situações intrigantes que despertam minha curiosidade.</p>
+          </div>
+
+          <div class="book-item">
+            <h4>⚡ Harry Potter</h4>
+            <p>A série de J.K. Rowling foi uma das que me introduziu ao mundo da fantasia. Hogwarts, a magia, as amizades e as aventuras de Harry, Hermione e Ron criaram um universo que me acompanha desde a infância e continua me inspirando.</p>
+          </div>
+
+          <div class="book-item">
+            <h4>🧛 Drácula</h4>
+            <p>O clássico de Bram Stoker combina perfeitamente horror gótico com mistério. A atmosfera sombria e os elementos investigativos da história me atraem, especialmente considerando meu interesse por perícia criminal e resolução de mistérios.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="topic">
+        <h3>🎬 Filmes</h3>
+        <p>
+          Adoro assistir filmes de diversos gêneros! O cinema me permite vivenciar diferentes histórias, emoções e mundos. Cada filme é uma experiência única que me ensina algo novo e me faz refletir sobre diferentes aspectos da vida.
+        </p>
+
+        <div class="movie-list">
+          <div class="movie-item">
+            <h4>✨ Abracadabra</h4>
+            <p>Um filme que combina comédia e fantasia de forma encantadora. A magia presente na história desperta minha imaginação e me diverte com suas situações inusitadas e personagens carismáticos.</p>
+          </div>
+
+          <div class="movie-item">
+            <h4>⚡ Harry Potter</h4>
+            <p>A saga cinematográfica que trouxe o mundo mágico de Hogwarts para as telas. Ver os livros que tanto amo ganharem vida no cinema foi uma experiência inesquecível, e cada filme me emociona de forma diferente.</p>
+          </div>
+
+          <div class="movie-item">
+            <h4>🐉 O Hobbit: A Batalha dos Cinco Exércitos</h4>
+            <p>A conclusão épica da trilogia do Hobbit me impressiona com suas batalhas grandiosas e efeitos visuais espetaculares. A jornada de Bilbo e a luta final pela Montanha Solitária criam momentos de tensão e emoção únicos.</p>
+          </div>
+
+          <div class="movie-item">
+            <h4>🔍 O Estrangulador de Boston</h4>
+            <p>Este filme de suspense e investigação criminal desperta meu interesse pela área forense. A forma como os investigadores trabalham para resolver o caso me fascina e me inspira para minha futura carreira como perita criminal.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="personal">
+      <h2>Sobre Mim</h2>
+      <p>
+        Além dos estudos, amo dançar, ouvir música e desenhar e assistir filmes. Tenho uma família incrível: minha mãe e meu irmão que é um bebê de 1 ano e amo de paixão. Gosto muito de strogonoff e sorvete, amo muito meu namorado e minhas amigas.
+      </p>
+      <p>
+        Amo sentir o vento, olhar o céu, escutar os sons da natureza e observar as estrelas. Sempre agradeço a Deus por tudo que ele me deu e por ser quem eu sou, claro que ainda tenho meus defeitos, mas estou sempre buscando evoluir.
+      </p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
